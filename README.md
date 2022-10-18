@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/badge/FASUZO-is%20good-da282a" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561199012329263&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600" />
 ### Hi there 👋
 
 <!--
